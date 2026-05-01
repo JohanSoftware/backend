@@ -36,13 +36,17 @@ backend/
 │── src/
 │   ├── controllers/
 │   ├── routes/
-│   ├── models/
-│   ├── middlewares/
-│   ├── config/
 │   └── app.js
+│   └── server.js
 │
 │── docs/
 │   └── swagger.js
+│
+│── .env
+│── .eslintrc.json
+│── .prettierrc
+│── package.json
+│── README.md
 ```
 
 ---
